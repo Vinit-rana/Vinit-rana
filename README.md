@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinit-rana
 - 👀 I’m interested in ... Full Stack Developer
-- 🌱 I’m currently learning ... Php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Php FrameWorks
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
 <!---

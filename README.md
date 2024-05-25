@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Vinit-rana
-- 👀 I’m interested in ... Full Stack Developer
-- 🌱 I’m currently learning ... Php FrameWorks
 
 
 <!---
